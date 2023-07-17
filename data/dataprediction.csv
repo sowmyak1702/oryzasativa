@@ -1,0 +1,530 @@
+Subpopulation,Plant Height (cm),Sequence
+Intermediate,149.8,ACCGATCTT
+Tropical Japonica,95.4,ACTGAATTT
+Temperate Japonica,119.4,ACTGAACTT
+Temperate Japonica,125.8,ACTGAACTT
+Temperate Japonica,123.2,ACTGAACTT
+Temperate Japonica,121.4,ACTGAACTT
+Temperate Japonica,114.1,ACTGAACTT
+Temperate Japonica,115.54,ACTGAACCC
+Tropical Japonica,134.6,GCTTAATTT
+Tropical Japonica,140.4,ACTGAACTC
+Temperate Japonica,102.37,ACTGAACCT
+Temperate Japonica,97.63,ACTGAACCT
+Temperate Japonica,102.47,ACTGAACCT
+Temperate Japonica,129.0,GCTGAACTT
+Temperate Japonica,116.8,GCTGAACTT
+Intermediate,171.4,GCTGAACTT
+Tropical Japonica,169.4,GCTGAACTT
+Temperate Japonica,162.36,GCTGAACTT
+Temperate Japonica,97.8,GCTGAACTT
+Tropical Japonica,118.83,GCTGAACTT
+Temperate Japonica,193.0,GCTGAACTC
+Temperate Japonica,170.8,GCTGAACTC
+Temperate Japonica,140.4,GCTGAACTC
+Temperate Japonica,164.73,GCTGAACTC
+Temperate Japonica,202.07,GCTGAACTC
+Temperate Japonica,155.4,GCTGAACTC
+Tropical Japonica,182.6,GCTGAACTC
+Temperate Japonica,143.32,GCTGAACTC
+Temperate Japonica,135.8,GCTGAACTC
+Tropical Japonica,175.4,GCTTAACTT
+Temperate Japonica,141.27,GCTTAACTT
+Tropical Japonica,126.2,GCTGAATTT
+Tropical Japonica,147.0,GCTGAATTT
+Tropical Japonica,152.6,GCTGAATTT
+Tropical Japonica,139.8,GCTGAATTT
+Tropical Japonica,143.4,GCTGAATTT
+Tropical Japonica,182.2,GCTGAATTT
+Tropical Japonica,157.8,GCTGAATTT
+Tropical Japonica,140.8,GCTGAATTT
+Tropical Japonica,129.8,GCTGAATTT
+Tropical Japonica,171.6,GCTGAATTT
+Tropical Japonica,133.8,GCTGAATTT
+Tropical Japonica,148.2,GCTGAATTT
+Temperate Japonica,119.6,GCTGAATTT
+Tropical Japonica,105.07,GCTGAATTT
+Tropical Japonica,149.4,GCTGAATTT
+Tropical Japonica,146.2,GCTGAATTT
+Tropical Japonica,146.0,GCTGAATTT
+Tropical Japonica,141.0,GCTGAATTT
+Tropical Japonica,149.8,GCTGAATTT
+Tropical Japonica,152.6,GCTGAATTT
+Indica Intermediate,98.4,ACTGTTTTT
+Intermediate,152.0,ACTGTTCTT
+Intermediate,99.9,ACTGTATTT
+Indica I,77.2,ACTGTATTT
+Japonica Intermediate,82.43,ACTGTATTT
+Temperate Japonica,93.2,ACTGTATTT
+Temperate Japonica,86.17,ACTGTATTT
+Temperate Japonica,109.6,ACTGTATTT
+Japonica Intermediate,142.4,ACTGTACTC
+Temperate Japonica,107.0,ACTGTACTC
+Japonica Intermediate,136.4,ACTGTACTC
+Temperate Japonica,89.8,ACTGTACTC
+Japonica Intermediate,145.0,ACTGTACTC
+Temperate Japonica,104.7,ACTGTACTT
+Japonica Intermediate,121.8,ACTGTACTT
+Temperate Japonica,68.4,ACTGTACTT
+Temperate Japonica,102.58,ACTGTACTT
+Temperate Japonica,112.87,ACTGTACTT
+Temperate Japonica,92.67,ACTGTACTT
+Temperate Japonica,87.03,ACTGTACTT
+Temperate Japonica,92.6,ACTGTACTT
+Temperate Japonica,96.0,ACTGTACTT
+Temperate Japonica,100.8,ACTGTACTT
+Temperate Japonica,98.6,ACTGTACTT
+Temperate Japonica,99.4,ACTGTACTT
+Temperate Japonica,70.6,ACTGTACTT
+Temperate Japonica,78.8,ACTGTACTT
+Temperate Japonica,98.4,ACTGTACTT
+Temperate Japonica,74.7,ACTGTACTT
+Intermediate,107.2,ACTGTACTT
+Temperate Japonica,107.8,ACTGTACTT
+Temperate Japonica,116.8,ACTGTACTT
+Japonica Intermediate,135.0,ACTGTACTT
+Temperate Japonica,142.4,ACTGTACTT
+Temperate Japonica,103.3,ACTGTACTT
+Temperate Japonica,78.27,ACTGTACTT
+Temperate Japonica,90.32,ACTGTACTT
+Temperate Japonica,77.43,ACTGTACTT
+Temperate Japonica,98.6,ACTGTACTT
+Temperate Japonica,114.6,ACTGTACTT
+Temperate Japonica,74.0,ACTGTACTT
+Japonica Intermediate,123.63,ACTGTACTT
+Temperate Japonica,100.0,ACTGTACTT
+Temperate Japonica,98.6,ACTGTACTT
+Temperate Japonica,97.33,ACTGTACTT
+Japonica Intermediate,94.0,ACTGTACTT
+Intermediate,117.4,ACTGTACTT
+Temperate Japonica,86.97,ACTGTACTT
+Japonica Intermediate,114.2,ACTGTACTT
+Temperate Japonica,174.7,GCTGAATCT
+Indica I,75.1,GCTGTATCT
+Indica Intermediate,96.8,GCTGTATCT
+Indica I,102.46,GCTGTATCT
+Indica I,92.33,ACTTTATCT
+Indica I,85.33,ACTTTATCT
+Indica Intermediate,86.87,ACTTTATCT
+Indica I,93.5,GCTTTATCT
+Indica II,103.6,GCTTTATCT
+Indica I,103.7,GCTTTATCT
+Indica I,73.13,GCTTTATCT
+Indica I,95.8,GCTTTATCT
+Indica I,118.1,GCTTTATCT
+Indica I,113.43,GCTTTATCT
+Indica I,80.83,GCTTTATCT
+Indica I,78.17,GCTTTATCT
+Indica I,132.04,GCTTTATCT
+Indica I,85.17,GCTTTATCT
+Indica I,109.43,GCTTTATCT
+Indica I,69.47,GCTTTATCT
+Indica III,167.2,GCTTTTCTT
+Aus,145.8,GCCTTTCTT
+Indica III,193.8,GCCTTTTTT
+Indica I,97.53,GCCTTTTTT
+Indica III,203.6,GCCTTTTTT
+Indica I,156.8,GCCTTTTTT
+Indica I,170.53,GCCTTTTTT
+Indica I,162.1,GCCTTTTTT
+Indica Intermediate,172.2,GCCTTTTTT
+Indica I,179.14,GCCTTTTTT
+Indica Intermediate,173.4,GCCTTTTTT
+Indica Intermediate,185.6,GCCTTTTTT
+Indica Intermediate,190.2,GCCTTTTTT
+Indica Intermediate,95.07,GCTTTTTCT
+Indica Intermediate,150.67,GCTTTTTCT
+Indica II,95.2,GCTTTTTTT
+Indica Intermediate,105.8,GCTTTTTTT
+Indica Intermediate,168.4,GCTTTTTTT
+Indica I,70.8,GCTTTTTTT
+Indica I,158.07,GCTTTTTTT
+Indica II,96.6,GCTTTTTTT
+Indica Intermediate,111.2,GCTTTTTTT
+Indica Intermediate,185.07,GCTTTTTTT
+Indica III,198.57,GCTTTTTTT
+Indica III,193.67,GCTTTTTTT
+Indica Intermediate,97.77,GCTTTTTTT
+Indica II,100.2,GCTGTTTTT
+Indica III,160.6,GCTGTTTTT
+Intermediate,95.8,GCTGTTTTT
+Indica Intermediate,117.6,GCTGTTTTT
+Indica II,108.8,GCTGTTTTT
+Indica Intermediate,90.8,GCTGTTTTT
+Indica II,102.4,GCTGTTTTT
+Indica Intermediate,133.8,GCTGTATTT
+Indica II,115.8,GCTGTATTT
+Indica Intermediate,109.07,GCTGTATTT
+Indica II,100.0,GCTGTATTT
+Indica II,98.0,GCTGTATTT
+Indica II,112.8,GCTGTATTT
+Indica Intermediate,109.0,GCTGTATTT
+Indica II,109.37,GCTGTATTT
+Indica I,105.5,GCTGTATTT
+Indica II,104.17,GCTGTATTT
+Indica Intermediate,104.87,GCTGTATTT
+Indica Intermediate,108.2,GCTGTATTT
+Indica II,113.8,GCTGTATTT
+Indica II,107.4,GCTGTATTT
+Indica II,104.4,GCTGTATTT
+Indica II,95.53,GCTGTATTT
+Tropical Japonica,84.2,GCTGTATTT
+Indica Intermediate,95.2,GCTGTATTT
+Indica II,95.4,GCTGTATTT
+Indica I,83.8,GCTGTATTT
+Indica II,103.4,GCTGTATTT
+Indica Intermediate,112.8,GCTGTATTT
+Indica II,100.6,GCTGTATTT
+Indica Intermediate,112.0,GCTGTATTT
+Indica I,106.33,GCTGTATTT
+Indica II,100.43,GCTGTATTT
+Indica Intermediate,103.13,GCTGTATTT
+Indica Intermediate,137.8,GCTGTATTT
+Indica Intermediate,133.6,GCTGTATTT
+Indica II,108.1,GCTGTATTT
+Indica II,97.0,GCTGTATTT
+Tropical Japonica,90.2,GCTGTATTT
+Indica II,101.4,GCTGTATTT
+Indica Intermediate,116.63,GCTGTATTT
+Indica Intermediate,116.4,GCTGTATTT
+Indica I,139.3,GCTGTATTT
+Indica II,95.2,GCTGTATTT
+Indica Intermediate,103.8,GCTGTATTT
+Indica II,99.0,GCTGTATTT
+Indica Intermediate,114.4,GCTGTATTT
+Indica II,101.2,GCTGTATTT
+Indica II,108.81,GCTGTATTT
+Indica Intermediate,106.8,GCTGTATTT
+Indica II,101.4,GCTGTATTT
+Indica Intermediate,98.2,GCTGTATTT
+Indica II,80.4,GCTGTATTT
+Indica II,95.6,GCTGTATTT
+Indica II,109.6,GCTGTATTT
+Indica II,117.2,GCTGTATTT
+Indica Intermediate,94.73,GCTGTATTT
+Indica Intermediate,137.4,GCTGTATTT
+Indica II,98.8,GCTGTATTT
+Indica Intermediate,82.83,GCTGTATTT
+Indica II,105.6,GCTGTATTT
+Indica II,123.8,GCTGTATTT
+Indica I,77.3,GCTGTATTT
+Indica Intermediate,103.67,GCTGTATTT
+Indica II,117.0,GCTGTATTT
+Indica II,102.0,GCTGTATTT
+Indica Intermediate,105.2,GCTGTATTT
+Indica Intermediate,106.6,GCTGTATTT
+Indica Intermediate,106.2,GCTGTATTT
+Indica I,107.67,GCTGTATTT
+Indica II,103.8,GCTGTATTT
+Indica II,111.43,GCTGTATTT
+Indica II,115.8,GCTGTATTT
+Indica Intermediate,135.2,GCTGTATTT
+Indica II,110.4,GCTTTACTT
+Indica I,77.33,GCTTTACTT
+Indica Intermediate,111.6,GCTTTACTT
+Temperate Japonica,139.8,GCTTTACTT
+Indica Intermediate,110.27,GCTTTACTT
+Intermediate,101.0,GCTTTACTT
+Indica Intermediate,95.8,GCTTTATTT
+Indica Intermediate,114.2,GCTTTATTT
+Indica II,112.2,GCTTTATTT
+Indica Intermediate,91.4,GCTTTATTT
+Indica Intermediate,172.37,GCTTTATTT
+Indica Intermediate,73.77,GCTTTATTT
+Indica Intermediate,91.4,GCTTTATTT
+Intermediate,118.8,GCTTTATTT
+Indica II,101.8,GCTTTATTT
+Indica II,101.0,GCTTTATTT
+Indica Intermediate,108.23,GCTTTATTT
+Indica II,93.6,GCTTTATTT
+Indica I,105.33,GCTTTATTT
+Indica II,98.0,GCTTTATTT
+Indica II,104.6,GCTTTATTT
+Indica Intermediate,107.97,GCTTTATTT
+Indica II,102.4,GCTTTATTT
+Indica Intermediate,96.27,GCTTTATTT
+Indica I,80.25,GCTTTATTT
+Indica II,96.6,GCTTTATTT
+Indica Intermediate,88.6,GCTTTATTT
+Indica I,107.73,GCTTTATTT
+Indica III,160.2,GCTTTATTT
+Indica II,110.0,GCTTTATTT
+Indica II,95.6,GCTTTATTT
+Indica II,115.0,GCTTTATTT
+Indica Intermediate,114.8,GCTTTATTT
+Indica II,119.4,GCTTTATTT
+Indica II,93.8,GCTTTATTT
+Indica II,83.4,GCTTTATTT
+Indica II,96.0,GCTTTATTT
+Indica Intermediate,112.6,GCTTTATTT
+Indica II,-9.0,GCTTTATTT
+Indica Intermediate,121.6,GCTTTATTT
+Indica I,94.87,GCTTTATTT
+Indica I,77.43,GCTTTATTT
+Indica II,110.4,GCTTTATTT
+Indica I,102.0,GCTTTATTT
+Indica II,106.0,GCTTTATTT
+Indica Intermediate,170.17,GCTTTATTT
+Indica II,114.2,GCTTTATTT
+Indica II,90.6,GCTTTATTT
+Indica II,108.4,GCTTTATTT
+Indica II,111.6,GCTTTATTT
+Indica Intermediate,101.33,GCTTTATTT
+Indica I,150.6,GCTTTATTT
+Indica I,96.03,GCTTTATTT
+Tropical Japonica,107.2,GCTTTATTT
+Indica I,145.4,GCTTTATTT
+Indica Intermediate,105.4,GCTTTATTT
+Indica II,102.0,GCTTTATTT
+Indica II,109.4,GCTTTATTT
+Indica Intermediate,108.23,GCTTTATTT
+Indica Intermediate,120.4,GCTTTATTT
+Indica Intermediate,115.4,GCTTTATTT
+Indica Intermediate,99.57,GCTTTATTT
+Indica Intermediate,110.43,GCTTTATTT
+Indica II,116.0,GCTTTATTT
+Indica Intermediate,118.07,GCTTTATTT
+Indica I,99.2,GCTTTATTT
+Indica Intermediate,83.68,GCTTTATTT
+Indica II,84.0,GCTTTATTT
+Indica II,99.6,GCTTTATTT
+Indica II,115.6,GCTTTATTT
+Indica Intermediate,91.4,GCTTTATTT
+Indica Intermediate,104.33,GCTTTATTT
+Indica Intermediate,108.0,GCTTTATTT
+Indica Intermediate,114.4,GCTTTTTTC
+Indica I,114.4,GCTTTTTTC
+Indica Intermediate,172.4,GCTTTTTTC
+Indica I,155.0,GCTGTTTTC
+Indica Intermediate,176.8,GCTGTTTTC
+Intermediate,121.0,GCTGTTTTC
+Intermediate,121.2,GCTGTTTTC
+Indica Intermediate,163.2,GCTGTTTTC
+Indica I,120.27,GCTGTTTTC
+Indica Intermediate,172.8,GCTTTACTC
+Indica I,185.33,GCTTTTCTC
+Tropical Japonica,150.8,GCTGAATTC
+Tropical Japonica,156.2,GCTGAATTC
+Tropical Japonica,144.2,GCTGAATTC
+Indica Intermediate,87.47,GCTGTATTC
+Indica II,102.0,GCTGTATTC
+Indica Intermediate,118.6,GCTGTATTC
+Indica Intermediate,106.23,GCTGTATTC
+Tropical Japonica,134.0,GCTGTATTC
+Indica Intermediate,109.8,GCTGTATTC
+Tropical Japonica,147.4,GCTGTATTC
+Indica Intermediate,100.47,GCTGTATTC
+Indica Intermediate,154.87,GTTGTATTC
+Indica Intermediate,97.67,GCTTTATTC
+Indica Intermediate,151.0,GCTTTATTC
+Indica Intermediate,149.8,GCTTTATTC
+Indica Intermediate,99.0,GCTTTATTC
+Indica I,171.27,GCTTTATTC
+Indica III,132.6,GCTTTATTC
+Indica I,152.54,GCTTTATTC
+Indica I,170.07,GCTTTATTC
+Indica Intermediate,112.0,GCTTTATTC
+Indica I,113.1,GCTTTATTC
+Indica I,165.07,GCTTTATTC
+Indica Intermediate,96.0,GCTTTATTC
+Indica I,168.47,GCTTTATTC
+Indica Intermediate,125.2,GCTTTATTC
+Indica Intermediate,157.8,GCTTTATTC
+Indica II,98.8,GCTTTATTC
+Tropical Japonica,154.4,GCTTAATTC
+Tropical Japonica,158.2,GCTTAATTC
+Tropical Japonica,163.33,GCTTAATTC
+Tropical Japonica,157.4,GCTTAATTC
+Tropical Japonica,135.4,GCTTAATTC
+Temperate Japonica,206.73,GCTTAACCC
+Japonica Intermediate,196.8,GCTTAACCC
+Temperate Japonica,172.46,GCTTAACCC
+Temperate Japonica,192.07,GCTGAACCC
+Temperate Japonica,191.0,GCTGAACCC
+Temperate Japonica,170.0,GCTGAACCC
+Temperate Japonica,174.2,GCTGAACCC
+Temperate Japonica,206.13,GCTGAACCC
+Temperate Japonica,116.4,GCTGTACCT
+Temperate Japonica,99.03,GCTGTACCT
+Temperate Japonica,77.73,GCTGTACCT
+Temperate Japonica,137.8,GCTGTACTT
+Temperate Japonica,97.9,GCTGTACTT
+Temperate Japonica,144.47,GCTGTACTT
+Temperate Japonica,93.4,GCTGTACTT
+Temperate Japonica,98.0,GCTGTACTT
+Temperate Japonica,115.8,GCTGTACTT
+Tropical Japonica,106.7,GCTGTACTT
+Temperate Japonica,89.39,GCTGTACTT
+Temperate Japonica,171.79,GCTGTACTT
+Indica Intermediate,160.4,GCTGTACTT
+Temperate Japonica,137.9,GCTGTACTT
+Indica II,88.27,GCTGTACTT
+Tropical Japonica,153.4,GCTGTACTT
+Japonica Intermediate,141.57,GCTGTACTT
+Tropical Japonica,121.6,GCTGTACTT
+Temperate Japonica,96.4,GCTGTACTT
+Temperate Japonica,110.5,GCTGTACTT
+Tropical Japonica,166.8,GCTGTACTT
+Temperate Japonica,142.43,GCTGTACTT
+Temperate Japonica,106.2,GCTGTACTT
+Temperate Japonica,150.0,GCTGTACTT
+Japonica Intermediate,124.8,GCTGTACTT
+Indica Intermediate,96.8,GCTGTACTT
+Temperate Japonica,138.0,GCTGTACTT
+VI/Aromatic,174.8,GCTGTACCC
+Japonica Intermediate,147.1,GCTGTACCC
+Japonica Intermediate,157.62,GCTGTACCC
+VI/Aromatic,130.2,GCCGTACCC
+VI/Aromatic,160.0,GCCGTACCC
+Temperate Japonica,140.61,GCTGTACTC
+Temperate Japonica,131.3,GCTGTACTC
+Japonica Intermediate,142.6,GCTGTACTC
+Temperate Japonica,125.0,GCTGTACTC
+Temperate Japonica,143.65,GCTGTACTC
+Temperate Japonica,190.9,GCTGTACTC
+Temperate Japonica,128.2,GCTGTACTC
+Japonica Intermediate,155.4,GCTGTACTC
+Japonica Intermediate,169.8,GCTGTACTC
+Japonica Intermediate,156.0,GCTGTACTC
+Temperate Japonica,133.53,GCTGTACTC
+Japonica Intermediate,180.0,GCTGTACTC
+Intermediate,137.0,GCTGTACTC
+Temperate Japonica,156.46,GCTGTACTC
+Temperate Japonica,117.93,GCTGTACTC
+Indica I,159.33,GCCTTATTC
+Indica Intermediate,180.0,GCCTTATTC
+Indica I,168.4,GCCTTATTC
+Indica I,164.4,GCCTTATTC
+Indica Intermediate,159.6,GCCTTATTC
+Indica Intermediate,162.2,GCCTTATTC
+Indica I,161.2,GCCTTATTC
+Indica Intermediate,169.67,GCCTTATTT
+Indica I,161.8,GCCTTATTT
+Indica I,175.77,GCCTTATTT
+Indica I,119.03,GCCTTATTT
+Indica I,141.4,GCCTTATTT
+Indica I,154.2,GCCTTATTT
+Indica Intermediate,177.29,GCCTTATTT
+Indica Intermediate,177.4,GCCTTACTT
+Japonica Intermediate,203.2,GCCTTACCT
+Indica I,166.4,GCCTTATCT
+Indica I,170.2,GCCTTATCT
+VI/Aromatic,182.4,GCCTTTCCC
+Aus,149.6,GCCTTTCCC
+Aus,152.2,GCCTTTCCC
+VI/Aromatic,177.62,GCCTTTCCC
+VI/Aromatic,188.6,GCCTTTCCC
+VI/Aromatic,172.0,GCCTTTCCC
+Aus,142.0,GCCTTTCCC
+VI/Aromatic,158.4,GCCTTACCC
+Aus,151.6,GCCTTTCTC
+Indica Intermediate,185.4,GCCTTTCTC
+Aus,177.6,GCCTTTCTC
+Aus,138.8,GCCTTTCTC
+Aus,154.4,GCCTTTCTC
+Aus,111.4,GCCTTTCTC
+Aus,150.43,GCCTTTCTC
+Aus,154.2,GCCTTTCTC
+Aus,145.8,GCCTTTCTC
+Aus,157.8,GCCTTTCTC
+Aus,165.8,GCCTTTCTC
+Aus,161.2,GCCTTTCTC
+Aus,154.0,GCCTTTCTC
+Aus,156.6,GCCTTACTC
+Indica Intermediate,125.6,GCCTTACTC
+Aus,147.17,GCCTTACTC
+Indica Intermediate,196.2,GCCTTACTC
+Indica Intermediate,186.2,GCCTTACTC
+VI/Aromatic,151.2,GCCTTACTC
+Indica Intermediate,178.27,GCCTTACTC
+Indica I,148.4,GTCTTTTTC
+Indica I,157.6,GCCTTTTTC
+Indica I,167.83,GCCTTTTTC
+Indica I,159.6,GCCTTTTTC
+Indica Intermediate,166.87,GCCTTTTTC
+Indica I,136.39,GCCTTTTTC
+Indica I,189.1,GCCTTTTTC
+Indica I,160.9,GCCTTTTTC
+Indica Intermediate,166.45,GCCTTTTTC
+Indica Intermediate,177.2,GCCTTTTTC
+Indica I,182.14,GCCTTTTTC
+Indica I,135.4,GCCTTTTTC
+Indica I,159.6,GCCTTTTTC
+Indica I,152.0,GCCTTTTTC
+Indica Intermediate,166.4,GCCTTTTTC
+Indica I,190.93,GCCTTTTTC
+Indica Intermediate,173.77,GCCTTTTTC
+Indica Intermediate,194.93,GCCTTTTTC
+Indica I,187.53,GCCTTTTTC
+Indica Intermediate,155.6,GCCTTTTTC
+Aus,136.6,GCCGTTTCC
+Indica I,176.33,GCCTTTTCC
+Indica I,114.73,GCTTTATCC
+Indica Intermediate,147.8,GCTTTATCC
+Indica I,146.4,GCCTTATCC
+Indica I,127.36,GCCTTATCC
+Indica I,155.8,GCCTTATCC
+Indica I,149.8,GCCTTATCC
+Indica I,156.17,GCCTTATCC
+Indica I,156.0,GCTTTTTCC
+Indica I,158.4,GCTTTTTCC
+Indica I,160.57,GCTTTTTCC
+Indica I,147.15,GCTTTTTCC
+Indica I,158.23,GCTTTTTCC
+Intermediate,132.4,GCTTTTCCC
+Indica I,144.13,GCTTTTCCC
+VI/Aromatic,129.6,GCTGTTCCC
+VI/Aromatic,178.0,GCCGTTCCC
+VI/Aromatic,145.8,GCCGTTCCC
+Aus,146.6,GCCGTTCCC
+VI/Aromatic,161.0,GCCGTTCCC
+Aus,165.8,GCCGTTCCC
+Aus,148.2,GCCGTTCCC
+Aus,166.6,GCCGTTCCC
+Aus,190.2,GCCGTTCCC
+Intermediate,147.6,GCCGTTTCT
+VI/Aromatic,158.0,GCCGTTCCT
+Aus,169.4,GCCGTTCTT
+Indica Intermediate,172.6,GCCGTACTT
+Indica Intermediate,111.2,GCCGTATTT
+Indica III,97.8,GCCGTATTT
+Indica Intermediate,112.4,GCCGTATTT
+Indica Intermediate,150.67,GCCGTATTT
+Indica Intermediate,104.6,GCCGTATTT
+Indica I,127.4,GCCGTATTT
+Aus,163.8,GCCGTACTC
+Aus,150.0,GCCGTACTC
+Indica I,170.36,GCCGTATTC
+Indica II,111.2,GCCGTATTC
+Indica I,145.65,GCCGTATTC
+Indica III,181.4,GCCGTATTC
+Indica Intermediate,134.8,GCCGTATTC
+Indica I,163.37,GCCGTTTTC
+Indica I,134.0,GCCGTTTTC
+Indica I,157.8,GCCGTTTTC
+Indica I,160.6,GCCGTTTTC
+Indica Intermediate,102.2,GCCGTTTTT
+Indica III,136.4,GCCGTTTTT
+Indica II,119.2,GCCGTTTTT
+Indica III,165.8,GCCGTTTTT
+Indica III,133.0,GCCGTTTTT
+Aus,164.2,GTCGTTCTC
+Aus,144.8,GCCGTTCTC
+Aus,149.0,GCCGTTCTC
+Aus,137.4,GCCGTTCTC
+Indica Intermediate,173.8,GCCGTTCTC
+Aus,177.2,GCCGTTCTC
+Aus,164.2,GCCGTTCTC
+Aus,158.8,GCCGTTCTC
+Aus,146.4,GCCGTTCTC
+Aus,145.4,GCCGTTCTC
+Aus,161.2,GCCGTTCTC
+Aus,155.0,GCCGTTCTC
+Aus,153.4,GCCGTTCTC
+Aus,154.8,GCCGTTCTC
+Aus,149.4,GCCGTTCTC
+Aus,161.0,GCCGTTCTC
+Aus,153.8,GCCGTTCTC
+Aus,141.8,GCCGTTCTC
+Aus,150.2,GCCGTTCTC
+Aus,165.2,GCCGTTCTC

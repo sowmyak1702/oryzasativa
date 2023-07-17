@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <title>Hello, world!</title>
+
+  <style>
+    #table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid white;
+    }
+
+    th {
+      background-color: black;
+      color: white;
+    }
+
+
+    h6{ font-family: serif; }   
+    .footer {
+      height: 10vh;
+    }
+     h4{ font-family: serif; }   
+
+    .bg {
+      /* background-color: ; */
+      background-image: url("{{ url_for('static', filename='wall5.gif') }}");
+      transition: background-image 0.5s ease;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 420px;
+      border: 3px solid black;
+      text-align: center-down;
+      /* width:100vw; */
+
+
+    }
+
+    .text {
+      /* text-align: center; */
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      color: white;
+      flex: content;
+      align-items: center;
+    }
+
+
+
+
+
+    .info {
+      text-align: center;
+    }
+
+    .prediction-form {
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 40px;
+    }
+
+    .follow-us {
+      text-align: center;
+    }
+
+    .social-media-icons {
+      display: inline-block;
+      margin-right: 0.3px;
+    }
+
+    .b {
+      background-color: #ddd;
+    }
+    p.italic{
+      font-style: italic;
+        
+      }
+      p.oblique{
+        font-style: oblique;
+      }
+
+    #table {
+      display: none;
+    }
+    .box{
+      width: 250px;
+      height: 300px;
+      display: flex;
+      border: 1px solid black;
+      /*padding: 20px;*/
+       align-items: center;
+  justify-content: center;
+  margin: 0 auto; 
+    }
+    p.ab{
+      font-style:italic;
+    }
+
+    .ftr {
+      background-color: black;
+      color: white;
+      text-align: center;
+      font-size: 14px;
+      height: 220px;
+    }
+  </style>
+  <script>
+    var section = document.querySelector('section')
+    var images = [
+      url('/static/wall5.jpg'),
+      url('/static/wall4.jpg'),
+      url('/static/wall.jpg'),
+      url('/static/wall1.jpg'),
+      url('/static/wall5.jpg')
+    ];
+    //   index=0;
+    setInterval(function () {
+
+
+      var bg = images[Math.floor(Math.random() * images.length)]
+      section.style.background = (bg)
+    }, 6000)
+
+
+    function toggleTable() {
+      var table = document.getElementById("table");
+      if (table.style.display === "none") {
+        table.style.display = "table";
+      } else {
+        table.style.display = "none";
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <div class="b">
+    <h3 style="text-align:center;">WELCOME!</h2>
+      <nav class="navbar navbar-light bg-light">
+
+        <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light"> -->
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#" style="text-align: center;">PHENOTYPIC DATA PREDICTION</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link active" aria-current="page" href="#section1">Home</a>
+              <a class="nav-link" href="height">About</a>
+              <a class="nav-link" href="#section3">Prediction</a>
+              <!-- <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
+            </div>
+          </div>
+        </div>
+        <!-- </nav> -->
+      </nav>
+      <div id="section1">
+        <div class="bg">
+          <div class="text">
+            <p class="italic">GENOTYPE---PHENOTYPE</p>
+            <p class="ab">PREDICTION OF PHENOTYPIC TRAITS OF ORYZA SATIVA</p>
+          </div>
+        </div>
+      </div>
+      <br><br>
+      <div id="section2">
+        <h6>GENOTYPE</h6>
+        <p class="oblique">The genotype refers to the genetic constitution or genetic makeup of an organism. It represents the specific
+          combination of genes and genetic variations present in an individual's DNA. In the context of agrigenomics,
+          genotype analysis is used to study and understand the genetic basis of agricultural traits in plants and
+          animals. By examining the genotype, scientists can uncover valuable information about inherited
+          characteristics, genetic diversity, and potential relationships between genes and desirable agricultural
+          traits. Genotype analysis plays a crucial role in crop improvement, breeding programs, and the development of
+          sustainable agricultural practices.</p>
+
+        <br>
+        <h6>PHENOTYPE</h6>  
+        <p class="oblique">The phenotype refers to the observable characteristics or traits of an organism that result from the
+          interaction between its genetic makeup (genotype) and the environment. It encompasses the physical,
+          biochemical, and behavioral features exhibited by an individual. In the field of agrigenomics, studying the
+          phenotype is essential for understanding how genes manifest in actual traits related to agriculture. By
+          analyzing the phenotype, scientists can assess plant or animal performance, productivity, disease resistance,
+          and other key attributes. Phenotype analysis provides valuable insights into the practical applications of
+          genetic information, enabling breeders and researchers to make informed decisions for crop improvement,
+          livestock breeding, and sustainable agricultural practices.
+
+
+
+
+        </p>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+          crossorigin="anonymous"></script>
+        <br>
+        <hr>
+      </div>
+      <div id="section3">
+        <h5 style="text-align: center;">Prediction Of Phenotypic Traits</h5>
+        <!-- Option 2: Separate Popper and Bootstrap JS -->
+        <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+        <h6 style="text-align: center;">Subpopulation And Height Prediction</h6>
+        <h6  style="text-align: center;">Enter an Allele Sequence </h6>
+        <h7  style="text-align: center;">Length-9 ['A','C','T','G']</h7>
+        <br>
+
+        <div class="prediction-form">
+          <form method="POST" action="/">
+            <label for="sequence"><h6>Enter Sequence:</h6></label>
+            <input type="text" id="sequence" name="sequence">
+            <input type="submit" value="Enter">
+          </form>
+        </div>
+        <br>
+        <div class="box">
+      
+        <div class="info">
+          {% if Seq %}
+          <h6 style="font-size: large;">Predicted Data</h6>
+          <br>
+          <p style="font-size:larger;"><h6 style="font-weight: bold;">Sequence</h6>  {{Seq}}</p>
+          {% endif %}
+          {% if h %}
+          <p style="font-size:larger;"><h6 style="font-weight: bold">Height</h6> {{h}}</p>
+          {% endif %}
+          {% if subpop %}
+          <p style="font-size:larger;"><h6 style="font-weight: bold">Subpopulation</h6> {{subpop}}</p>
+          {% endif %}
+        </div>
+         </div>
+        <br><br>
+
+         <h4 style="text-align: center"> For Previous Data</h4>
+        <div class="info">
+          <button onclick="toggleTable()">Previous</button>
+        </div>
+        <br><br>
+
+        <!-- <button onclick="toggleTable()">Previousbutton</button> -->
+        <div class="info1">
+         
+          <table id="table">
+            <tr>
+              <th>Sequence</th>
+              <th>Height</th>
+              <th>Subpopulation</th>
+            </tr>
+            {% if list2 %}
+            {% for entry in list2 %}
+
+
+
+            <tr>
+              <td>{{entry[0]}}</td>
+              <td>{{entry[1]}}</td>
+              <td>{{entry[2]}}</td>
+            </tr>
+
+
+            {% endfor %}
+            {% else %}
+            <tr>
+              <td colspan="3"> No Data Recorder</td>
+            </tr>
+            {% endif %}
+          </table>
+        </div>
+
+
+        <br><br><br>
+      </div>
+
+  </div>
+
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+  <div class="ftr">
+    <footer class="footer">
+      <!-- <div class="container">
+      <p>&copy; 2023 Your Company. All rights reserved.</p>
+    </div> -->
+      <h2>Phenotypic Traits Prediction</h2>
+      <p>Prediction of Phenotypic Traits with help of Genotype</p>
+
+
+
+      <div class="footer-links">
+        <a href="#">Terms of Service</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Contact Us</a>
+      </div>
+      <div class="follow-us">
+        <h3>Follow Us</h3>
+        <ul class="social-media-icons">
+          <li><a href="https://www.facebook.com/example"><i class="fab fa-facebook"></i></a></li>
+          <li><a href="https://www.twitter.com/example"><i class="fab fa-twitter"></i></a></li>
+          <li><a href="https://www.instagram.com/example"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+      </div>
+
+    </footer>
+  </div>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+
+
+
+</body>
+
+</html>
